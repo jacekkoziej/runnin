@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-07-06 23:58
+last_sync,2026-07-07 00:03
 last_window,3 dni
 last_activity,Siła (2026-07-06)
 
@@ -185,6 +185,8 @@ i162849312,2026-07-05T10:27:57,Bychawa Bieganie,Run,10208.27,4077,138,156,56,159
 i162849312,2026-07-05T10:27:57,Bychawa Bieganie,Run,10208.27,4077,138,156,56,159.39472,97.27727
 i163291382,2026-07-06T18:05:05,Bychawa Chodzenie,Walk,2003.71,1598,95,112,7,125.22642,4
 i163325083,2026-07-06T19:46:08,Siła,WeightTraining,,2789,101,138,15,,
+i163325083,2026-07-06T19:46:08,Siła,WeightTraining,,2789,101,138,15,,
+i163291382,2026-07-06T18:05:05,Bychawa Chodzenie,Walk,2003.71,1598,95,112,7,125.22642,4
 
 ### intervals
 date,activity_id,interval_id,interval_no,type,distance_m,duration_s,avg_hr,max_hr,avg_cadence_spm,avg_speed_ms,zone,intensity,start_time,end_time,elevation_gain_m,avg_gradient,group_id
