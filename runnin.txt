@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-07-07 23:58
+last_sync,2026-07-08 00:03
 last_window,3 dni
 last_activity,Bieg na bieżni (2026-07-07)
 
@@ -188,6 +188,7 @@ i163291382,2026-07-06T18:05:05,Bychawa Chodzenie,Walk,2003.71,1598,95,112,7,125.
 i163325083,2026-07-06T19:46:08,Siła,WeightTraining,,2789,101,138,15,,
 i163325083,2026-07-06T19:46:08,Siła,WeightTraining,,2789,101,138,15,,
 i163291382,2026-07-06T18:05:05,Bychawa Chodzenie,Walk,2003.71,1598,95,112,7,125.22642,4
+i163608306,2026-07-07T18:19:14,Bieg na bieżni,VirtualRun,7002.57,2557,144,151,41,172.11184,
 i163608306,2026-07-07T18:19:14,Bieg na bieżni,VirtualRun,7002.57,2557,144,151,41,172.11184,
 
 ### intervals
