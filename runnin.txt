@@ -1,8 +1,8 @@
 ### meta
 key,value
-last_sync,2026-07-10 17:18
+last_sync,2026-07-10 17:23
 last_window,3 dni
-last_activity,Siła (2026-07-09)
+last_activity,Relaks i skupienie (krótkie) (2026-07-10)
 
 ### wellness
 date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,sleep_secs,sleep_score,sleep_quality,avg_sleeping_hr
@@ -197,6 +197,7 @@ i163942472,2026-07-08T18:46:25,Bychawa Bieganie,Run,12484.16,4464,145,153,78,171
 i163942472,2026-07-08T18:46:25,Bychawa Bieganie,Run,12484.16,4464,145,153,78,171.7084,159.37845
 i164073328,2026-07-09T06:51:45,Siła,WeightTraining,,3802,92,126,15,,
 i164073328,2026-07-09T06:51:45,Siła,WeightTraining,,3802,92,126,15,,
+i164487977,2026-07-10T17:15:38,Relaks i skupienie (krótkie),Workout,,334,59,70,,,
 
 ### intervals
 date,activity_id,interval_id,interval_no,type,distance_m,duration_s,avg_hr,max_hr,avg_cadence_spm,avg_speed_ms,zone,intensity,start_time,end_time,elevation_gain_m,avg_gradient,group_id
