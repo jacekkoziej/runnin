@@ -1,8 +1,8 @@
 ### meta
 key,value
-last_sync,2026-07-11 14:58
+last_sync,2026-07-11 15:03
 last_window,3 dni
-last_activity,Bychawa Bieganie (2026-07-10)
+last_activity,Bychawa Chodzenie (2026-07-11)
 
 ### wellness
 date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,sleep_secs,sleep_score,sleep_quality,avg_sleeping_hr
@@ -104,7 +104,7 @@ date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,s
 2026-07-08,30.972801,46.09182,2.5243511,,42,81,,27540,80,2,
 2026-07-09,30.244064,41.952812,2.4649582,,42,81,,17580,58,4,
 2026-07-10,31.297096,46.352123,2.830471,,39,93,,32023,89,2,
-2026-07-11,33.07826,54.425697,3.587366,,44,77,,28500,78,2,
+2026-07-11,33.31354,55.756916,3.822649,,44,77,,28500,78,2,
 
 ### activities
 activity_id,date,name,sport,distance_m,duration_s,avg_hr,max_hr,training_load,avg_cadence_spm,elevation_gain_m
@@ -204,6 +204,7 @@ i164539756,2026-07-10T19:00:50,Bychawa - T 4x6' @4:39 p. 2',Run,10455.83,3289,15
 i164539777,2026-07-10T19:57:17,Bychawa Bieganie,Run,84.36,12,133,134,1,159.14286,
 i164539756,2026-07-10T19:00:50,Bychawa - T 4x6' @4:39 p. 2',Run,10455.83,3289,158,172,74,170.15966,117.3577
 i164487977,2026-07-10T17:15:38,Relaks i skupienie (krótkie),Workout,,334,59,70,,,
+i164738222,2026-07-11T14:25:16,Bychawa Chodzenie,Walk,1998.65,1591,100,113,10,122.74468,2
 
 ### intervals
 date,activity_id,interval_id,interval_no,type,distance_m,duration_s,avg_hr,max_hr,avg_cadence_spm,avg_speed_ms,zone,intensity,start_time,end_time,elevation_gain_m,avg_gradient,group_id
