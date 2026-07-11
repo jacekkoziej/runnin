@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-07-11 23:58
+last_sync,2026-07-12 00:03
 last_window,3 dni
 last_activity,IntervalCoach - Recovery Run (2026-07-11)
 
@@ -206,6 +206,8 @@ i164539756,2026-07-10T19:00:50,Bychawa - T 4x6' @4:39 p. 2',Run,10455.83,3289,15
 i164487977,2026-07-10T17:15:38,Relaks i skupienie (krótkie),Workout,,334,59,70,,,
 i164738222,2026-07-11T14:25:16,Bychawa Chodzenie,Walk,1998.65,1591,100,113,10,122.74468,2
 i164805272,2026-07-11T19:12:37,IntervalCoach - Recovery Run,Run,6384.85,2629,138,153,33,162.95676,48.137985
+i164805272,2026-07-11T19:12:37,IntervalCoach - Recovery Run,Run,6384.85,2629,138,153,33,162.95676,48.137985
+i164738222,2026-07-11T14:25:16,Bychawa Chodzenie,Walk,1998.65,1591,100,113,10,122.74468,2
 
 ### intervals
 date,activity_id,interval_id,interval_no,type,distance_m,duration_s,avg_hr,max_hr,avg_cadence_spm,avg_speed_ms,zone,intensity,start_time,end_time,elevation_gain_m,avg_gradient,group_id
