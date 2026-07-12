@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-07-12 18:33
+last_sync,2026-07-12 18:38
 last_window,3 dni
 last_activity,IntervalCoach - Aerobic Endurance (2026-07-12)
 
