@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-07-14 23:58
+last_sync,2026-07-15 00:03
 last_window,3 dni
 last_activity,IntervalCoach - Stride Repeats (HR) (2026-07-14)
 
@@ -217,6 +217,7 @@ i165363317,2026-07-13T18:51:10,Bychawa Kolarstwo,Ride,6506.08,1888,93,132,10,,72
 i165401058,2026-07-13T20:38:23,Siła,WeightTraining,,3942,103,155,22,,
 i165401058,2026-07-13T20:38:23,Siła,WeightTraining,,3942,103,155,22,,
 i165363317,2026-07-13T18:51:10,Bychawa Kolarstwo,Ride,6506.08,1888,93,132,10,,72
+i165723328,2026-07-14T19:03:43,IntervalCoach - Stride Repeats (HR),Run,9575.48,3711,143,169,53,158.4118,79.58023
 i165723328,2026-07-14T19:03:43,IntervalCoach - Stride Repeats (HR),Run,9575.48,3711,143,169,53,158.4118,79.58023
 
 ### intervals
