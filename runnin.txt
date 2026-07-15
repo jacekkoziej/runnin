@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-07-15 17:58
+last_sync,2026-07-15 18:03
 last_window,3 dni
 last_activity,IntervalCoach - Stride Repeats (HR) (2026-07-14)
 
