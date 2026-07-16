@@ -1,8 +1,8 @@
 ### meta
 key,value
-last_sync,2026-07-16 18:58
+last_sync,2026-07-16 19:03
 last_window,3 dni
-last_activity,Bychawa Bieganie (2026-07-15)
+last_activity,Bychawa Chodzenie (2026-07-16)
 
 ### wellness
 date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,sleep_secs,sleep_score,sleep_quality,avg_sleeping_hr
@@ -108,8 +108,8 @@ date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,s
 2026-07-12,32.782448,50.843925,2.667841,92.5,39,86,,31227,83,3,
 2026-07-13,32.246414,48.335384,2.6756554,,41,90,,27351,75,3,
 2026-07-14,32.73471,48.95635,2.8950405,,42,74,,22980,74,2,
-2026-07-15,34.482048,56.683243,3.5092468,,45,73,,26040,77,3,
-2026-07-16,33.670742,49.13745,3.4266777,,43,84,,29160,90,1,
+2026-07-15,32.693897,46.56596,1.721096,,45,73,,26040,77,3,
+2026-07-16,32.112892,41.43198,1.8688278,,43,84,,29160,90,1,
 
 ### activities
 activity_id,date,name,sport,distance_m,duration_s,avg_hr,max_hr,training_load,avg_cadence_spm,elevation_gain_m
@@ -223,6 +223,7 @@ i165723328,2026-07-14T19:03:43,IntervalCoach - Stride Repeats (HR),Run,9575.48,3
 i165723328,2026-07-14T19:03:43,IntervalCoach - Stride Repeats (HR),Run,9575.48,3711,143,169,53,158.4118,79.58023
 i166060897,2026-07-15T18:53:03,Bychawa Bieganie,Run,6152.87,2642,135,153,31,160.9337,46.100266
 i166060897,2026-07-15T18:53:03,Bychawa Bieganie,Run,6152.87,2642,135,153,31,160.9337,46.100266
+i166363351,2026-07-16T18:10:31,Bychawa Chodzenie,Walk,2003.54,1764,97,114,8,114.23729,1
 
 ### intervals
 date,activity_id,interval_id,interval_no,type,distance_m,duration_s,avg_hr,max_hr,avg_cadence_spm,avg_speed_ms,zone,intensity,start_time,end_time,elevation_gain_m,avg_gradient,group_id
