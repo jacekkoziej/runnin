@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-07-19 23:58
+last_sync,2026-07-20 00:03
 last_window,3 dni
 last_activity,Bychawa Kolarstwo (2026-07-19)
 
@@ -237,6 +237,9 @@ i166793582,2026-07-18T08:33:03,Bychawa - T 4x7' @4:39 p. 2',Run,10071.04,3294,15
 i167165581,2026-07-19T16:01:23,Bychawa Chodzenie,Walk,1031.24,692,92,109,3,111.810348,12
 i167192174,2026-07-19T17:08:44,Bychawa Kolarstwo,Ride,17019.7,2780,131,163,37,,147
 i167217202,2026-07-19T18:52:10,Bychawa Kolarstwo,Ride,4936.22,1108,98,145,8,,35
+i167217202,2026-07-19T18:52:10,Bychawa Kolarstwo,Ride,4936.22,1108,98,145,8,,35
+i167192174,2026-07-19T17:08:44,Bychawa Kolarstwo,Ride,17019.7,2780,131,163,37,,147
+i167165581,2026-07-19T16:01:23,Bychawa Chodzenie,Walk,1031.24,692,92,109,3,111.810348,12
 
 ### intervals
 date,activity_id,interval_id,interval_no,type,distance_m,duration_s,avg_hr,max_hr,avg_cadence_spm,avg_speed_ms,zone,intensity,start_time,end_time,elevation_gain_m,avg_gradient,group_id
