@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-07-22 18:03
+last_sync,2026-07-22 18:08
 last_window,3 dni
 last_activity,Bychawa - Tempo (2026-07-21)
 
