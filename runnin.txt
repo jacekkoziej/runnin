@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-07-23 08:18
+last_sync,2026-07-23 08:23
 last_window,3 dni
 last_activity,Jabłonna - Długi bieg (2026-07-22)
 
@@ -116,7 +116,7 @@ date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,s
 2026-07-20,32.557163,43.795116,0.31074905,,44,82,,25980,77,3,
 2026-07-21,33.649883,48.481663,0.9151726,,41,79,,29220,86,2,
 2026-07-22,34.481613,51.213108,1.7877159,,44,87,,22560,72,3,
-2026-07-23,33.67032,44.39551,1.5574265,,42,,,,,,
+2026-07-23,33.67032,44.39551,1.5574265,,42,82,,27780,87,2,
 
 ### activities
 activity_id,date,name,sport,distance_m,duration_s,avg_hr,max_hr,training_load,avg_cadence_spm,elevation_gain_m
