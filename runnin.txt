@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-07-23 16:43
+last_sync,2026-07-23 16:48
 last_window,3 dni
 last_activity,Jabłonna - Długi bieg (2026-07-22)
 
