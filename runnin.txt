@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-07-24 09:23
+last_sync,2026-07-24 09:29
 last_window,3 dni
 last_activity,Bychawa Chodzenie (2026-07-23)
 
