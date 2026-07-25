@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-07-25 01:58
+last_sync,2026-07-25 02:03
 last_window,3 dni
 last_activity,Bychawa - Baza (2026-07-24)
 
@@ -118,6 +118,7 @@ date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,s
 2026-07-22,34.481613,51.213108,1.7877159,,44,87,,22560,72,3,
 2026-07-23,33.76443,46.65859,1.6515388,,42,82,,27780,87,2,
 2026-07-24,33.746445,44.84033,2.3891144,,40,85,,27098,80,2,
+2026-07-25,32.952446,38.87109,0.30946732,,,,,,,,
 
 ### activities
 activity_id,date,name,sport,distance_m,duration_s,avg_hr,max_hr,training_load,avg_cadence_spm,elevation_gain_m
