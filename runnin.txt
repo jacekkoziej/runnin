@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-07-26 09:03
+last_sync,2026-07-26 09:08
 last_window,3 dni
 last_activity,Bychawa - Beztlenowe (2026-07-25)
 
@@ -119,7 +119,7 @@ date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,s
 2026-07-23,33.76443,46.65859,1.6515388,,42,82,,27780,87,2,
 2026-07-24,33.746445,44.84033,2.3891144,,40,85,,27098,80,2,
 2026-07-25,34.34062,46.725292,1.6976395,,40,91,,27929,85,2,
-2026-07-26,33.532642,40.505123,0.5283394,,41,84,,27120,86,2,
+2026-07-26,33.532642,40.505123,0.5283394,,45,84,,27120,86,2,
 
 ### activities
 activity_id,date,name,sport,distance_m,duration_s,avg_hr,max_hr,training_load,avg_cadence_spm,elevation_gain_m
