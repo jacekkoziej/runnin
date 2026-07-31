@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-08-01 01:33
+last_sync,2026-08-01 01:38
 last_window,3 dni
 last_activity,Bychawa - T 3x9' @4:39 p. 2' (2026-07-31)
 
