@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-08-06 15:53
+last_sync,2026-08-06 15:59
 last_window,3 dni
 last_activity,Z2 Rower (2026-08-05)
 
