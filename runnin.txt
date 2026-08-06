@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-08-06 03:43
+last_sync,2026-08-06 03:48
 last_window,3 dni
 last_activity,Z2 Rower (2026-08-05)
 
@@ -130,7 +130,7 @@ date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,s
 2026-08-03,36.12149,46.814518,0.8691406,,43,75,,28920,92,1,
 2026-08-04,36.471558,47.371696,1.107502,,42,85,,25860,82,2,
 2026-08-05,36.954556,49.319046,0.58734894,,41,85,,28554,83,2,
-2026-08-06,36.085075,42.75359,0.45588684,,,,,,,,
+2026-08-06,36.085075,42.75359,0.45588684,,46,,,,,,
 
 ### activities
 activity_id,date,name,sport,distance_m,duration_s,avg_hr,max_hr,training_load,avg_cadence_spm,elevation_gain_m
