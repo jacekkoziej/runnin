@@ -1,8 +1,8 @@
 ### meta
 key,value
-last_sync,2026-08-06 22:28
+last_sync,2026-08-06 22:34
 last_window,3 dni
-last_activity,Siła (2026-08-06)
+last_activity,Bychawa Chodzenie (2026-08-06)
 
 ### wellness
 date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,sleep_secs,sleep_score,sleep_quality,avg_sleeping_hr
@@ -130,7 +130,7 @@ date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,s
 2026-08-03,36.12149,46.814518,0.8691406,,43,75,,28920,92,1,
 2026-08-04,36.471558,47.371696,1.107502,,42,85,,25860,82,2,
 2026-08-05,36.954556,49.319046,0.58734894,,41,85,,28554,83,2,
-2026-08-06,36.085075,45.682278,0.45588684,,43,75,,27060,80,2,
+2026-08-06,36.249775,46.614132,0.6205864,,43,75,,27060,80,2,
 
 ### activities
 activity_id,date,name,sport,distance_m,duration_s,avg_hr,max_hr,training_load,avg_cadence_spm,elevation_gain_m
@@ -315,6 +315,7 @@ i172882900,2026-08-05T20:46:40,Z2 Rower,Ride,33183.22,5088,124,159,57,,257
 i172882900,2026-08-05T20:46:40,Z2 Rower,Ride,33183.22,5088,124,159,57,,257
 i172849903,2026-08-05T20:27:12,Siła,WeightTraining,,538,123,143,5,,
 i173189538,2026-08-06T20:28:06,Siła,WeightTraining,,3422,111,142,22,,
+i173204332,2026-08-06T21:33:17,Bychawa Chodzenie,Walk,1951.97,1895,94,110,7,98.007248,14
 
 ### intervals
 date,activity_id,interval_id,interval_no,type,distance_m,duration_s,avg_hr,max_hr,avg_cadence_spm,avg_speed_ms,zone,intensity,start_time,end_time,elevation_gain_m,avg_gradient,group_id
