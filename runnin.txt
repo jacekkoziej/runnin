@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-08-08 23:58
+last_sync,2026-08-09 00:03
 last_window,3 dni
 last_activity,Bychawa Bieganie (2026-08-08)
 
@@ -325,6 +325,9 @@ i173517210,2026-08-07T19:28:44,Bychawa Bieganie,Run,10051.48,3518,148,158,62,166
 i173706562,2026-08-08T13:38:01,Bychawa Chodzenie,Walk,1796.82,1476,99,115,7,117.891304,7
 i173716930,2026-08-08T14:11:26,Kardio,Workout,,1816,104,133,9,,
 i173812024,2026-08-08T17:59:12,Bychawa Bieganie,Run,12199.83,4788,146,160,68,160.22422,119.55394
+i173812024,2026-08-08T17:59:12,Bychawa Bieganie,Run,12199.83,4788,146,160,68,160.22422,119.55394
+i173716930,2026-08-08T14:11:26,Kardio,Workout,,1816,104,133,9,,
+i173706562,2026-08-08T13:38:01,Bychawa Chodzenie,Walk,1796.82,1476,99,115,7,117.891304,7
 
 ### intervals
 date,activity_id,interval_id,interval_no,type,distance_m,duration_s,avg_hr,max_hr,avg_cadence_spm,avg_speed_ms,zone,intensity,start_time,end_time,elevation_gain_m,avg_gradient,group_id
