@@ -1,8 +1,8 @@
 ### meta
 key,value
-last_sync,2026-08-10 20:03
+last_sync,2026-08-10 20:08
 last_window,3 dni
-last_activity,Bychawa Kolarstwo szosowe (2026-08-09)
+last_activity,Bychawa Chodzenie (2026-08-10)
 
 ### wellness
 date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,sleep_secs,sleep_score,sleep_quality,avg_sleeping_hr
@@ -134,7 +134,7 @@ date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,s
 2026-08-07,36.855633,48.66233,0.5824547,,42,75,,16740,58,4,
 2026-08-08,37.753105,53.366554,0.47463608,,44,79,,27322,82,2,
 2026-08-09,39.123558,60.106983,2.2280922,,42,81,,28380,91,1,
-2026-08-10,38.203045,52.105415,2.0815544,,42,85,,24581,75,3,
+2026-08-10,38.32069,52.771027,2.1991997,,42,85,,24581,75,3,
 
 ### activities
 activity_id,date,name,sport,distance_m,duration_s,avg_hr,max_hr,training_load,avg_cadence_spm,elevation_gain_m
@@ -334,6 +334,7 @@ i173964772,2026-08-09T10:23:06,Siła,WeightTraining,,1662,99,140,8,,
 i174006493,2026-08-09T11:22:14,Bychawa Kolarstwo szosowe,Ride,43926.64,6339,138,157,96,,407
 i174006493,2026-08-09T11:22:14,Bychawa Kolarstwo szosowe,Ride,43926.64,6339,138,157,96,,407
 i173964772,2026-08-09T10:23:06,Siła,WeightTraining,,1662,99,140,8,,
+i174472989,2026-08-10T19:51:32,Bychawa Chodzenie,Walk,1486.71,953,100,128,5,116.885056,18
 
 ### intervals
 date,activity_id,interval_id,interval_no,type,distance_m,duration_s,avg_hr,max_hr,avg_cadence_spm,avg_speed_ms,zone,intensity,start_time,end_time,elevation_gain_m,avg_gradient,group_id
