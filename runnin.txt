@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-08-11 12:23
+last_sync,2026-08-11 12:28
 last_window,3 dni
 last_activity,Bychawa Bieganie (2026-08-10)
 
@@ -135,7 +135,7 @@ date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,s
 2026-08-08,37.753105,53.366554,0.47463608,,44,79,,27322,82,2,
 2026-08-09,39.123558,60.106983,2.2280922,,42,81,,28380,91,1,
 2026-08-10,38.461857,55.832832,2.3403664,,42,85,,24581,75,3,
-2026-08-11,37.556915,48.40025,1.0853577,,,75,,,,,
+2026-08-11,37.556915,48.40025,1.0853577,,43,75,,21600,76,3,
 
 ### activities
 activity_id,date,name,sport,distance_m,duration_s,avg_hr,max_hr,training_load,avg_cadence_spm,elevation_gain_m
