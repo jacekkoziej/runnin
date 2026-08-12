@@ -1,8 +1,8 @@
 ### meta
 key,value
-last_sync,2026-08-12 18:18
+last_sync,2026-08-12 18:24
 last_window,3 dni
-last_activity,Lublin Bieganie (2026-08-12)
+last_activity,Lublin Chodzenie (2026-08-12)
 
 ### wellness
 date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,sleep_secs,sleep_score,sleep_quality,avg_sleeping_hr
@@ -136,7 +136,7 @@ date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,s
 2026-08-09,39.123558,60.106983,2.2280922,,42,81,,28380,91,1,
 2026-08-10,38.461857,55.832832,2.3403664,,42,85,,24581,75,3,
 2026-08-11,38.403934,53.192642,1.9323769,,43,75,,21600,76,3,
-2026-08-12,39.264977,56.095684,2.310421,,42,78,,23580,72,3,
+2026-08-12,39.335564,56.49505,2.3810081,,42,78,,23580,72,3,
 
 ### activities
 activity_id,date,name,sport,distance_m,duration_s,avg_hr,max_hr,training_load,avg_cadence_spm,elevation_gain_m
@@ -345,6 +345,7 @@ i174472989,2026-08-10T19:51:32,Bychawa Chodzenie,Walk,1486.71,953,100,128,5,116.
 i174833524,2026-08-11T18:53:34,Bychawa - rytm,Run,5730.01,1980,138,172,36,158.507248,28.23642
 i174833524,2026-08-11T18:53:34,Bychawa - rytm,Run,5730.01,1980,138,172,36,158.507248,28.23642
 i175196474,2026-08-12T17:09:11,Lublin Bieganie,Run,11020.9,3504,154,181,75,169.52016,78.08003
+i175200823,2026-08-12T18:11:29,Lublin Chodzenie,Walk,530.58,370,111,122,3,109.296296,3
 
 ### intervals
 date,activity_id,interval_id,interval_no,type,distance_m,duration_s,avg_hr,max_hr,avg_cadence_spm,avg_speed_ms,zone,intensity,start_time,end_time,elevation_gain_m,avg_gradient,group_id
