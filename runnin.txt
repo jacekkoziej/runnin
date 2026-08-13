@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-08-13 09:08
+last_sync,2026-08-13 09:13
 last_window,3 dni
 last_activity,Lublin Chodzenie (2026-08-12)
 
@@ -137,7 +137,7 @@ date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,s
 2026-08-10,38.461857,55.832832,2.3403664,,42,85,,24581,75,3,
 2026-08-11,38.403934,53.192642,1.9323769,,43,75,,21600,76,3,
 2026-08-12,39.335564,56.49505,2.3810081,,42,78,,23580,72,3,
-2026-08-13,38.410065,48.974308,2.1602898,,41,,,,,,
+2026-08-13,38.410065,48.974308,2.1602898,,41,81,,29580,94,1,
 
 ### activities
 activity_id,date,name,sport,distance_m,duration_s,avg_hr,max_hr,training_load,avg_cadence_spm,elevation_gain_m
