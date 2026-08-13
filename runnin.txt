@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-08-13 23:58
+last_sync,2026-08-14 00:03
 last_window,3 dni
 last_activity,Relaks i skupienie (krótkie) (2026-08-13)
 
@@ -352,6 +352,9 @@ i175196474,2026-08-12T17:09:11,Lublin Bieganie,Run,11020.9,3504,154,181,75,169.5
 i175504584,2026-08-13T17:43:25,Bychawa Chodzenie,Walk,5784.24,3951,96,111,17,117.430404,40
 i175549361,2026-08-13T20:23:16,Siła,WeightTraining,,3454,90,126,13,,
 i175582475,2026-08-13T22:11:51,Relaks i skupienie (krótkie),Workout,,333,61,75,,,
+i175582475,2026-08-13T22:11:51,Relaks i skupienie (krótkie),Workout,,333,61,75,,,
+i175549361,2026-08-13T20:23:16,Siła,WeightTraining,,3454,90,126,13,,
+i175504584,2026-08-13T17:43:25,Bychawa Chodzenie,Walk,5784.24,3951,96,111,17,117.430404,40
 
 ### intervals
 date,activity_id,interval_id,interval_no,type,distance_m,duration_s,avg_hr,max_hr,avg_cadence_spm,avg_speed_ms,zone,intensity,start_time,end_time,elevation_gain_m,avg_gradient,group_id
