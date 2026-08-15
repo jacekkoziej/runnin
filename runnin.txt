@@ -1,8 +1,8 @@
 ### meta
 key,value
-last_sync,2026-08-15 14:48
+last_sync,2026-08-15 14:53
 last_window,3 dni
-last_activity,Bychawa Chodzenie (2026-08-14)
+last_activity,Łęczna Kajakarstwo (2026-08-15)
 
 ### wellness
 date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,sleep_secs,sleep_score,sleep_quality,avg_sleeping_hr
@@ -139,7 +139,7 @@ date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,s
 2026-08-12,39.335564,56.49505,2.3810081,,42,78,,23580,72,3,
 2026-08-13,38.810047,52.96797,2.5602722,,41,81,,29580,94,1,
 2026-08-14,39.379196,54.303455,2.5235634,,41,83,,25200,82,2,
-2026-08-15,38.45267,47.074467,0.6995659,,42,79,,27960,83,2,
+2026-08-15,39.41733,52.53247,1.6642265,,42,79,,27960,83,2,
 
 ### activities
 activity_id,date,name,sport,distance_m,duration_s,avg_hr,max_hr,training_load,avg_cadence_spm,elevation_gain_m
@@ -361,6 +361,7 @@ i175845763,2026-08-14T18:24:09,Bychawa Bieganie,Run,9315.45,3216,148,163,58,169.
 i175863867,2026-08-14T19:27:20,Bychawa Chodzenie,Walk,1943.38,989,90,123,5,119.0685,17
 i175863867,2026-08-14T19:27:20,Bychawa Chodzenie,Walk,1943.38,989,90,123,5,119.0685,17
 i175845763,2026-08-14T18:24:09,Bychawa Bieganie,Run,9315.45,3216,148,163,58,169.57424,63.06082
+i176088673,2026-08-15T10:54:32,Łęczna Kajakarstwo,Kayaking,19394.89,12403,88,122,41,,23
 
 ### intervals
 date,activity_id,interval_id,interval_no,type,distance_m,duration_s,avg_hr,max_hr,avg_cadence_spm,avg_speed_ms,zone,intensity,start_time,end_time,elevation_gain_m,avg_gradient,group_id
