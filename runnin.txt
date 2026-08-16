@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-08-16 23:58
+last_sync,2026-08-17 00:03
 last_window,3 dni
 last_activity,Bychawa Kolarstwo szosowe (2026-08-16)
 
@@ -368,6 +368,7 @@ i176213482,2026-08-15T21:59:19,Relaks i skupienie (krótkie),Workout,,333,67,72,
 i176213482,2026-08-15T21:59:19,Relaks i skupienie (krótkie),Workout,,333,67,72,,,
 i176209682,2026-08-15T21:14:45,Siła,WeightTraining,,2025,100,138,10,,
 i176088673,2026-08-15T10:54:32,Łęczna Kajakarstwo,Kayaking,19394.89,12403,88,122,41,,23
+i176327858,2026-08-16T08:55:55,Bychawa Kolarstwo szosowe,Ride,30181.16,3841,146,185,68,,296
 i176327858,2026-08-16T08:55:55,Bychawa Kolarstwo szosowe,Ride,30181.16,3841,146,185,68,,296
 
 ### intervals
