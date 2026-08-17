@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-08-17 23:58
+last_sync,2026-08-18 00:03
 last_window,3 dni
 last_activity,Bychawa Chodzenie (2026-08-17)
 
@@ -373,6 +373,8 @@ i176327858,2026-08-16T08:55:55,Bychawa Kolarstwo szosowe,Ride,30181.16,3841,146,
 i176327858,2026-08-16T08:55:55,Bychawa Kolarstwo szosowe,Ride,30181.16,3841,146,185,68,,296
 i176823152,2026-08-17T16:10:59,Lublin Chodzenie,Walk,5846.59,3655,89,122,14,115.60976,55
 i176877914,2026-08-17T20:12:07,Bychawa Chodzenie,Walk,501.51,294,111,128,2,142.90566,2
+i176877914,2026-08-17T20:12:07,Bychawa Chodzenie,Walk,501.51,294,111,128,2,142.90566,2
+i176823152,2026-08-17T16:10:59,Lublin Chodzenie,Walk,5846.59,3655,89,122,14,115.60976,55
 
 ### intervals
 date,activity_id,interval_id,interval_no,type,distance_m,duration_s,avg_hr,max_hr,avg_cadence_spm,avg_speed_ms,zone,intensity,start_time,end_time,elevation_gain_m,avg_gradient,group_id
