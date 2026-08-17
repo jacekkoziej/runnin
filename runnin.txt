@@ -1,8 +1,8 @@
 ### meta
 key,value
-last_sync,2026-08-17 20:18
+last_sync,2026-08-17 20:23
 last_window,3 dni
-last_activity,Lublin Chodzenie (2026-08-17)
+last_activity,Bychawa Chodzenie (2026-08-17)
 
 ### wellness
 date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,sleep_secs,sleep_score,sleep_quality,avg_sleeping_hr
@@ -141,7 +141,7 @@ date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,s
 2026-08-14,39.379196,54.303455,2.5235634,,41,83,,25200,82,2,
 2026-08-15,39.41733,53.863693,1.6642265,,42,79,,27960,83,2,
 2026-08-16,40.089832,55.74555,0.96627426,,42,78,,26512,85,2,
-2026-08-17,39.475983,50.188293,1.0141258,,42,82,,22560,76,3,
+2026-08-17,39.52304,50.454536,1.0611839,,42,82,,22560,76,3,
 
 ### activities
 activity_id,date,name,sport,distance_m,duration_s,avg_hr,max_hr,training_load,avg_cadence_spm,elevation_gain_m
@@ -372,6 +372,7 @@ i176088673,2026-08-15T10:54:32,Łęczna Kajakarstwo,Kayaking,19394.89,12403,88,1
 i176327858,2026-08-16T08:55:55,Bychawa Kolarstwo szosowe,Ride,30181.16,3841,146,185,68,,296
 i176327858,2026-08-16T08:55:55,Bychawa Kolarstwo szosowe,Ride,30181.16,3841,146,185,68,,296
 i176823152,2026-08-17T16:10:59,Lublin Chodzenie,Walk,5846.59,3655,89,122,14,115.60976,55
+i176877914,2026-08-17T20:12:07,Bychawa Chodzenie,Walk,501.51,294,111,128,2,142.90566,2
 
 ### intervals
 date,activity_id,interval_id,interval_no,type,distance_m,duration_s,avg_hr,max_hr,avg_cadence_spm,avg_speed_ms,zone,intensity,start_time,end_time,elevation_gain_m,avg_gradient,group_id
