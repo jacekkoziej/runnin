@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-08-23 23:58
+last_sync,2026-08-24 00:04
 last_window,3 dni
 last_activity,Siła (2026-08-23)
 
@@ -398,6 +398,9 @@ i178552006,2026-08-22T11:11:36,Lublin Bieganie,Run,896.38,355,144,159,5,162.2153
 i178860721,2026-08-23T11:31:28,Bychawa Kolarstwo,Ride,28126.37,5060,111,137,39,,286
 i178885544,2026-08-23T14:11:25,Bychawa Kolarstwo,Ride,1628.6,280,119,143,3,,12
 i179036390,2026-08-23T21:24:05,Siła,WeightTraining,,3857,89,161,14,,
+i179036390,2026-08-23T21:24:05,Siła,WeightTraining,,3857,89,161,14,,
+i178885544,2026-08-23T14:11:25,Bychawa Kolarstwo,Ride,1628.6,280,119,143,3,,12
+i178860721,2026-08-23T11:31:28,Bychawa Kolarstwo,Ride,28126.37,5060,111,137,39,,286
 
 ### intervals
 date,activity_id,interval_id,interval_no,type,distance_m,duration_s,avg_hr,max_hr,avg_cadence_spm,avg_speed_ms,zone,intensity,start_time,end_time,elevation_gain_m,avg_gradient,group_id
