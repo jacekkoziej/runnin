@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-08-25 23:58
+last_sync,2026-08-26 00:03
 last_window,3 dni
 last_activity,Łochów Kajakarstwo (2026-08-25)
 
@@ -403,6 +403,7 @@ i179036390,2026-08-23T21:24:05,Siła,WeightTraining,,3857,89,161,14,,
 i179036390,2026-08-23T21:24:05,Siła,WeightTraining,,3857,89,161,14,,
 i178885544,2026-08-23T14:11:25,Bychawa Kolarstwo,Ride,1628.6,280,119,143,3,,12
 i178860721,2026-08-23T11:31:28,Bychawa Kolarstwo,Ride,28126.37,5060,111,137,39,,286
+i179612912,2026-08-25T13:32:48,Łochów Kajakarstwo,Kayaking,5014.75,3214,112,146,21,,3
 i179612912,2026-08-25T13:32:48,Łochów Kajakarstwo,Kayaking,5014.75,3214,112,146,21,,3
 
 ### intervals
