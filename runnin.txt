@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-08-25 07:48
+last_sync,2026-08-25 07:53
 last_window,3 dni
 last_activity,Siła (2026-08-23)
 
@@ -149,7 +149,7 @@ date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,s
 2026-08-22,37.90027,38.741943,-1.5170631,,43,71,,22440,70,3,
 2026-08-23,37.996727,41.03937,-2.0931053,,46,70,,22440,61,3,
 2026-08-24,37.10273,35.576122,-2.420311,,45,75,,24780,76,3,
-2026-08-25,36.229767,30.840155,-3.3986092,,46,70,,,,,
+2026-08-25,36.229767,30.840155,-3.3986092,,44,70,,27720,77,3,
 
 ### activities
 activity_id,date,name,sport,distance_m,duration_s,avg_hr,max_hr,training_load,avg_cadence_spm,elevation_gain_m
