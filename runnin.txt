@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-08-26 06:48
+last_sync,2026-08-26 06:53
 last_window,3 dni
 last_activity,Łochów Kajakarstwo (2026-08-25)
 
@@ -150,7 +150,7 @@ date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,s
 2026-08-23,37.996727,41.03937,-2.0931053,,46,70,,22440,61,3,
 2026-08-24,37.10273,35.576122,-2.420311,,45,75,,24780,76,3,
 2026-08-25,36.723858,33.63572,-2.9045181,,44,70,,27720,77,3,
-2026-08-26,35.859806,29.158062,-2.8361816,,,,,,,,
+2026-08-26,35.859806,29.158062,-2.8361816,,45,71,,,,,
 
 ### activities
 activity_id,date,name,sport,distance_m,duration_s,avg_hr,max_hr,training_load,avg_cadence_spm,elevation_gain_m
