@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-08-28 06:38
+last_sync,2026-08-28 06:43
 last_window,3 dni
 last_activity,Łochów Bieganie (2026-08-26)
 
@@ -152,7 +152,7 @@ date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,s
 2026-08-25,36.723858,33.63572,-2.9045181,,44,70,,27720,77,3,
 2026-08-26,37.36562,37.677876,-1.330368,,45,71,,20237,62,3,
 2026-08-27,36.48647,32.662117,-2.0284462,,41,82,,27120,84,2,
-2026-08-28,35.628006,28.314068,-1.9807167,,47,,,,,,
+2026-08-28,35.628006,28.314068,-1.9807167,,47,66,,25680,62,3,
 
 ### activities
 activity_id,date,name,sport,distance_m,duration_s,avg_hr,max_hr,training_load,avg_cadence_spm,elevation_gain_m
