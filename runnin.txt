@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-08-29 23:58
+last_sync,2026-08-30 00:03
 last_window,3 dni
 last_activity,Siła (2026-08-29)
 
@@ -415,6 +415,8 @@ i180604702,2026-08-28T10:04:35,Siła,WeightTraining,,3261,103,153,16,,
 i180604702,2026-08-28T10:04:35,Siła,WeightTraining,,3261,103,153,16,,
 i180866530,2026-08-29T06:50:56,Manavgat Bieganie,Run,5620.39,2042,146,161,34,164.47162,49.589214
 i180905758,2026-08-29T10:34:29,Siła,WeightTraining,,2341,107,164,13,,
+i180905758,2026-08-29T10:34:29,Siła,WeightTraining,,2341,107,164,13,,
+i180866530,2026-08-29T06:50:56,Manavgat Bieganie,Run,5620.39,2042,146,161,34,164.47162,49.589214
 
 ### intervals
 date,activity_id,interval_id,interval_no,type,distance_m,duration_s,avg_hr,max_hr,avg_cadence_spm,avg_speed_ms,zone,intensity,start_time,end_time,elevation_gain_m,avg_gradient,group_id
