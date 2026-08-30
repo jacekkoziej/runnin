@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-08-30 23:58
+last_sync,2026-08-31 00:03
 last_window,3 dni
 last_activity,Manavgat Chodzenie (2026-08-30)
 
@@ -421,6 +421,9 @@ i180866530,2026-08-29T06:50:56,Manavgat Bieganie,Run,5620.39,2042,146,161,34,164
 i181189584,2026-08-30T07:23:44,Manavgat Bieganie,Run,6160.95,2148,149,160,39,165.6026,66.9436
 i181307204,2026-08-30T14:33:10,Manavgat Chodzenie,Walk,135.15,72,97,100,,118.46154,
 i181434636,2026-08-30T17:01:39,Manavgat Chodzenie,Walk,5527.54,3943,84,111,29,100.36,36
+i181434636,2026-08-30T17:01:39,Manavgat Chodzenie,Walk,5527.54,3943,84,111,29,100.36,36
+i181307204,2026-08-30T14:33:10,Manavgat Chodzenie,Walk,135.15,72,97,100,,118.46154,
+i181189584,2026-08-30T07:23:44,Manavgat Bieganie,Run,6160.95,2148,149,160,39,165.6026,66.9436
 
 ### intervals
 date,activity_id,interval_id,interval_no,type,distance_m,duration_s,avg_hr,max_hr,avg_cadence_spm,avg_speed_ms,zone,intensity,start_time,end_time,elevation_gain_m,avg_gradient,group_id
