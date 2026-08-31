@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-08-31 10:48
+last_sync,2026-08-31 10:54
 last_window,3 dni
 last_activity,Pływanie na basenie (2026-08-31)
 
