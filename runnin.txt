@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-09-01 06:23
+last_sync,2026-09-01 06:28
 last_window,3 dni
 last_activity,Pływanie na basenie (2026-08-31)
 
@@ -156,7 +156,7 @@ date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,s
 2026-08-29,35.589703,32.647987,-2.310566,,48,83,,22260,73,3,
 2026-08-30,36.35226,37.354122,-1.6444664,,43,90,,25952,69,3,
 2026-08-31,36.179276,36.242004,-0.9234543,,44,85,,28020,83,2,
-2026-09-01,35.328037,31.417393,-1.3958206,,44,,,,,,
+2026-09-01,35.328037,31.417393,-1.3958206,,41,94,,28860,89,2,
 
 ### activities
 activity_id,date,name,sport,distance_m,duration_s,avg_hr,max_hr,training_load,avg_cadence_spm,elevation_gain_m
