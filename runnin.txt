@@ -1,8 +1,8 @@
 ### meta
 key,value
-last_sync,2026-09-08 12:23
+last_sync,2026-09-08 12:28
 last_window,3 dni
-last_activity,Siła (2026-09-07)
+last_activity,Bieg na bieżni (2026-09-08)
 
 ### wellness
 date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,sleep_secs,sleep_score,sleep_quality,avg_sleeping_hr
@@ -449,9 +449,11 @@ i183979323,2026-09-06T17:21:11,Bychawa Bieganie,Run,12152.84,4297,147,164,73,164
 i183956678,2026-09-06T15:57:14,Bychawa Chodzenie,Walk,3545.87,3797,81,93,9,94.26464,29
 i184355345,2026-09-07T20:17:05,Siła,WeightTraining,,4469,90,127,15,,
 i184355345,2026-09-07T20:17:05,Siła,WeightTraining,,4469,90,127,15,,
+i184518180,2026-09-08T11:46:26,Bieg na bieżni,VirtualRun,97.19,291,77,96,,107.209626,
 
 ### intervals
 date,activity_id,interval_id,interval_no,type,distance_m,duration_s,avg_hr,max_hr,avg_cadence_spm,avg_speed_ms,zone,intensity,start_time,end_time,elevation_gain_m,avg_gradient,group_id
+2026-09-08,i184518180,6069414,1,WORK,97.19,728,77,96,42.854396,0.13350275,1,44,,728,,,728s@77bpm21rpm
 2026-09-06,i183979323,4938028,1,WORK,1001.72,369,136,148,160.71892,2.7146883,1,79,,372,18.600006,0.0081859175,356s@147bpm82rpm
 2026-09-06,i183979323,8578860,2,RECOVERY,2.8200073,1,148,148,164,2.8200073,2,86,372,373,,,
 2026-09-06,i183979323,6540619,3,WORK,1002.0101,377,148,152,164.67374,2.6578517,2,86,373,750,17.59999,0.018163487,356s@147bpm82rpm
