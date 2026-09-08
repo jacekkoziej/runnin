@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-09-08 23:58
+last_sync,2026-09-09 00:03
 last_window,3 dni
 last_activity,Jabłonna - T 3x7' @4:40 p. 2'  (2026-09-08)
 
@@ -451,6 +451,8 @@ i184355345,2026-09-07T20:17:05,Siła,WeightTraining,,4469,90,127,15,,
 i184355345,2026-09-07T20:17:05,Siła,WeightTraining,,4469,90,127,15,,
 i184518180,2026-09-08T11:46:26,Bieg na bieżni,VirtualRun,97.19,291,77,96,,107.209626,
 i184635432,2026-09-08T17:52:02,Jabłonna - T 3x7' @4:40 p. 2' ,Run,8791.64,2882,161,178,57,167.65048,29.654922
+i184635432,2026-09-08T17:52:02,Jabłonna - T 3x7' @4:40 p. 2' ,Run,8791.64,2882,161,178,57,167.65048,29.654922
+i184518180,2026-09-08T11:46:26,Bieg na bieżni,VirtualRun,97.19,291,77,96,,107.209626,
 
 ### intervals
 date,activity_id,interval_id,interval_no,type,distance_m,duration_s,avg_hr,max_hr,avg_cadence_spm,avg_speed_ms,zone,intensity,start_time,end_time,elevation_gain_m,avg_gradient,group_id
