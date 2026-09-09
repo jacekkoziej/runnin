@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-09-09 03:13
+last_sync,2026-09-09 03:18
 last_window,3 dni
 last_activity,Jabłonna - T 3x7' @4:40 p. 2'  (2026-09-08)
 
@@ -164,7 +164,7 @@ date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,s
 2026-09-06,34.279438,32.25777,-2.0728226,,44,85,,29315,86,2,
 2026-09-07,33.4729,29.96038,-2.7063751,93.5,45,73,,28320,85,2,
 2026-09-08,34.026455,33.55995,-1.3015823,,43,74,,27540,89,2,
-2026-09-09,33.22587,29.09238,-1.2709618,,,,,,,,
+2026-09-09,33.22587,29.09238,-1.2709618,,43,,,,,,
 
 ### activities
 activity_id,date,name,sport,distance_m,duration_s,avg_hr,max_hr,training_load,avg_cadence_spm,elevation_gain_m
