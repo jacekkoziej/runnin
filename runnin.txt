@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-09-09 07:23
+last_sync,2026-09-09 07:28
 last_window,3 dni
 last_activity,Jabłonna - T 3x7' @4:40 p. 2'  (2026-09-08)
 
