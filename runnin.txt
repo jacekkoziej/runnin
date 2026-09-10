@@ -1,8 +1,8 @@
 ### meta
 key,value
-last_sync,2026-09-10 21:08
+last_sync,2026-09-10 21:13
 last_window,3 dni
-last_activity,Chodzenie (2026-09-09)
+last_activity,Siła (2026-09-10)
 
 ### wellness
 date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,sleep_secs,sleep_score,sleep_quality,avg_sleeping_hr
@@ -165,7 +165,7 @@ date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,s
 2026-09-07,33.4729,29.96038,-2.7063751,93.5,45,73,,28320,85,2,
 2026-09-08,34.026455,33.55995,-1.3015823,,43,74,,27540,89,2,
 2026-09-09,33.34351,29.757992,-1.1533203,,43,71,,26400,81,2,
-2026-09-10,32.558994,25.796545,-1.1261826,,40,90,,26220,73,3,
+2026-09-10,32.558994,27.26089,-1.1261826,,40,90,,26220,73,3,
 
 ### activities
 activity_id,date,name,sport,distance_m,duration_s,avg_hr,max_hr,training_load,avg_cadence_spm,elevation_gain_m
@@ -457,6 +457,7 @@ i184635432,2026-09-08T17:52:02,Jabłonna - T 3x7' @4:40 p. 2' ,Run,8791.64,2882
 i184518180,2026-09-08T11:46:26,Bieg na bieżni,VirtualRun,97.19,291,77,96,,107.209626,
 i184841900,2026-09-09T10:55:07,Chodzenie,Walk,1251.84,1357,89,95,5,112.219512,
 i184841900,2026-09-09T10:55:07,Chodzenie,Walk,1251.84,1357,89,95,5,112.219512,
+i185376550,2026-09-10T20:13:59,Siła,WeightTraining,,3430,85,122,11,,
 
 ### intervals
 date,activity_id,interval_id,interval_no,type,distance_m,duration_s,avg_hr,max_hr,avg_cadence_spm,avg_speed_ms,zone,intensity,start_time,end_time,elevation_gain_m,avg_gradient,group_id
