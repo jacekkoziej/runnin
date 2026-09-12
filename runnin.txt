@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-09-12 01:58
+last_sync,2026-09-12 02:03
 last_window,3 dni
 last_activity,Bieg na bieżni (2026-09-11)
 
@@ -167,6 +167,7 @@ date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,s
 2026-09-09,33.34351,29.757992,-1.1533203,,43,71,,26400,81,2,
 2026-09-10,32.558994,27.26089,-1.1261826,,40,90,,26220,73,3,
 2026-09-11,32.945824,30.154844,-0.9820442,,39,90,,26280,92,1,
+2026-09-12,32.170666,26.140568,-0.9589348,,46,,,,,,
 
 ### activities
 activity_id,date,name,sport,distance_m,duration_s,avg_hr,max_hr,training_load,avg_cadence_spm,elevation_gain_m
