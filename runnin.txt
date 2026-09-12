@@ -1,8 +1,8 @@
 ### meta
 key,value
-last_sync,2026-09-12 19:03
+last_sync,2026-09-12 19:08
 last_window,3 dni
-last_activity,Bieg na bieżni (2026-09-11)
+last_activity,Bychawa Chodzenie (2026-09-12)
 
 ### wellness
 date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,sleep_secs,sleep_score,sleep_quality,avg_sleeping_hr
@@ -167,7 +167,7 @@ date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,s
 2026-09-09,33.34351,29.757992,-1.1533203,,43,71,,26400,81,2,
 2026-09-10,32.558994,27.26089,-1.1261826,,40,90,,26220,73,3,
 2026-09-11,32.945824,30.154844,-0.9820442,,39,90,,26280,92,1,
-2026-09-12,32.170666,26.140568,-0.9589348,,43,97,,25800,58,4,
+2026-09-12,32.453003,27.738033,-0.6765976,,43,97,,25800,58,4,
 
 ### activities
 activity_id,date,name,sport,distance_m,duration_s,avg_hr,max_hr,training_load,avg_cadence_spm,elevation_gain_m
@@ -463,6 +463,7 @@ i185376550,2026-09-10T20:13:59,Siła,WeightTraining,,3430,85,122,11,,
 i185376550,2026-09-10T20:13:59,Siła,WeightTraining,,3430,85,122,11,,
 i185690611,2026-09-11T19:19:31,Bieg na bieżni,VirtualRun,8030,2841,146,168,49,164.575852,
 i185690611,2026-09-11T19:19:31,Bieg na bieżni,VirtualRun,8030,2841,146,168,49,164.575852,
+i185975872,2026-09-12T18:00:50,Bychawa Chodzenie,Walk,5097.95,3253,90,121,12,114.5977,30
 
 ### intervals
 date,activity_id,interval_id,interval_no,type,distance_m,duration_s,avg_hr,max_hr,avg_cadence_spm,avg_speed_ms,zone,intensity,start_time,end_time,elevation_gain_m,avg_gradient,group_id
