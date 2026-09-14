@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-09-14 01:58
+last_sync,2026-09-14 02:03
 last_window,3 dni
 last_activity,Bychawa Chodzenie (2026-09-12)
 
@@ -169,6 +169,7 @@ date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,s
 2026-09-11,32.945824,30.154844,-0.9820442,,39,90,,26280,92,1,
 2026-09-12,32.453003,27.738033,-0.6765976,,43,97,,25800,58,4,
 2026-09-13,31.689438,24.045488,-2.5900002,,40,94,,28260,85,2,
+2026-09-14,30.943838,20.844501,-2.5290623,,45,,,,,,
 
 ### activities
 activity_id,date,name,sport,distance_m,duration_s,avg_hr,max_hr,training_load,avg_cadence_spm,elevation_gain_m
