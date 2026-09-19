@@ -1,8 +1,8 @@
 ### meta
 key,value
-last_sync,2026-09-19 19:03
+last_sync,2026-09-19 19:08
 last_window,3 dni
-last_activity,Chodzenie (2026-09-18)
+last_activity,Lublin Chodzenie (2026-09-19)
 
 ### wellness
 date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,sleep_secs,sleep_score,sleep_quality,avg_sleeping_hr
@@ -174,7 +174,7 @@ date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,s
 2026-09-16,30.371529,21.850443,-2.971981,,42,79,,27180,84,2,
 2026-09-17,30.551014,25.46465,-2.0079803,,42,77,,31049,78,3,
 2026-09-18,29.949842,22.740353,-2.9959812,,43,79,,22980,71,3,
-2026-09-19,29.245173,19.71311,-3.2078304,,42,86,,31380,90,1,
+2026-09-19,29.598099,21.70994,-2.8549042,,42,86,,31380,90,1,
 
 ### activities
 activity_id,date,name,sport,distance_m,duration_s,avg_hr,max_hr,training_load,avg_cadence_spm,elevation_gain_m
@@ -488,6 +488,7 @@ i187580438,2026-09-17T11:35:32,Chodzenie,Walk,698.11,763,83,105,4,108.95522,
 i187566685,2026-09-17T10:42:02,Chodzenie,Walk,1377.18,958,90,105,3,112.902436,
 i187942883,2026-09-18T14:30:40,Chodzenie,Walk,2010.82,1293,91,99,5,118.683334,
 i187942883,2026-09-18T14:30:40,Chodzenie,Walk,2010.82,1293,91,99,5,118.683334,
+i188294798,2026-09-19T18:03:54,Lublin Chodzenie,Walk,5439.47,3344,97,123,15,118.949456,38
 
 ### intervals
 date,activity_id,interval_id,interval_no,type,distance_m,duration_s,avg_hr,max_hr,avg_cadence_spm,avg_speed_ms,zone,intensity,start_time,end_time,elevation_gain_m,avg_gradient,group_id
