@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-09-20 23:58
+last_sync,2026-09-21 00:03
 last_window,3 dni
 last_activity,Opole Lubelskie Chodzenie (2026-09-20)
 
@@ -495,6 +495,10 @@ i188458511,2026-09-20T11:11:23,Bychawa Bieganie,Run,6666.33,2566,146,159,38,157.
 i188533234,2026-09-20T14:00:36,Opole Lubelskie Chodzenie,Walk,8623.3,4874,107,140,29,123.49231,29
 i188582094,2026-09-20T17:06:46,Opole Lubelskie Chodzenie,Walk,1827.66,1328,93,131,5,110.25,5
 i188594814,2026-09-20T17:56:26,Opole Lubelskie Chodzenie,Walk,1557.53,1101,90,113,4,112.274284,5
+i188594814,2026-09-20T17:56:26,Opole Lubelskie Chodzenie,Walk,1557.53,1101,90,113,4,112.274284,5
+i188582094,2026-09-20T17:06:46,Opole Lubelskie Chodzenie,Walk,1827.66,1328,93,131,5,110.25,5
+i188533234,2026-09-20T14:00:36,Opole Lubelskie Chodzenie,Walk,8623.3,4874,107,140,29,123.49231,29
+i188458511,2026-09-20T11:11:23,Bychawa Bieganie,Run,6666.33,2566,146,159,38,157.626832,69.212296
 
 ### intervals
 date,activity_id,interval_id,interval_no,type,distance_m,duration_s,avg_hr,max_hr,avg_cadence_spm,avg_speed_ms,zone,intensity,start_time,end_time,elevation_gain_m,avg_gradient,group_id
