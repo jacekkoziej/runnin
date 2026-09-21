@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-09-21 10:49
+last_sync,2026-09-21 10:53
 last_window,3 dni
 last_activity,Opole Lubelskie Chodzenie (2026-09-20)
 
