@@ -1,8 +1,8 @@
 ### meta
 key,value
-last_sync,2026-09-23 16:19
+last_sync,2026-09-23 16:23
 last_window,3 dni
-last_activity,Bychawa Chodzenie (2026-09-23)
+last_activity,Rzeszów Chodzenie (2026-09-23)
 
 ### wellness
 date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,sleep_secs,sleep_score,sleep_quality,avg_sleeping_hr
@@ -515,6 +515,7 @@ i189263459,2026-09-22T17:38:16,Jabłonna Bieganie,Run,8701.14,2784,156,176,58,16
 i189263459,2026-09-22T17:38:16,Jabłonna Bieganie,Run,8701.14,2784,156,176,58,165.22546,25.774872
 i189169470,2026-09-22T13:41:14,Chodzenie,Walk,1597.1,997,85,98,3,119.054946,
 i189479782,2026-09-23T10:31:03,Bychawa Chodzenie,Walk,167.33,1947,95,105,8,120,
+i189573594,2026-09-23T15:30:40,Rzeszów Chodzenie,Walk,4624.18,2819,90,99,10,120.9199,5
 
 ### intervals
 date,activity_id,interval_id,interval_no,type,distance_m,duration_s,avg_hr,max_hr,avg_cadence_spm,avg_speed_ms,zone,intensity,start_time,end_time,elevation_gain_m,avg_gradient,group_id
