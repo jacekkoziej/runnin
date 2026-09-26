@@ -1,8 +1,8 @@
 ### meta
 key,value
-last_sync,2026-09-26 17:53
+last_sync,2026-09-26 17:58
 last_window,3 dni
-last_activity,Siła (2026-09-24)
+last_activity,Warszawa Chodzenie (2026-09-26)
 
 ### wellness
 date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,sleep_secs,sleep_score,sleep_quality,avg_sleeping_hr
@@ -181,7 +181,7 @@ date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,s
 2026-09-23,30.870272,32.287952,0.49874306,,42,79,,21600,74,3,
 2026-09-24,31.132135,35.710793,0.58112144,91.9,41,82,,31380,87,2,
 2026-09-25,30.399649,30.956898,0.4498062,,44,73,,23940,71,3,
-2026-09-26,29.684397,26.83585,0.08629799,,43,68,,22080,74,3,
+2026-09-26,29.943207,28.300194,0.34510803,,43,68,,22080,74,3,
 
 ### activities
 activity_id,date,name,sport,distance_m,duration_s,avg_hr,max_hr,training_load,avg_cadence_spm,elevation_gain_m
@@ -527,6 +527,7 @@ i190045435,2026-09-24T20:13:18,Siła,WeightTraining,,5260,85,131,16,,
 i190045435,2026-09-24T20:13:18,Siła,WeightTraining,,5260,85,131,16,,
 i189947582,2026-09-24T15:48:39,Bychawa Bieganie,Run,6673.55,2448,151,163,39,161.538712,67.905716
 i189882728,2026-09-24T12:40:46,Chodzenie,Walk,1426.35,910,84,96,3,120.481926,
+i190595531,2026-09-26T16:36:28,Warszawa Chodzenie,Walk,3240.8,1942,84,128,11,120.36364,21
 
 ### intervals
 date,activity_id,interval_id,interval_no,type,distance_m,duration_s,avg_hr,max_hr,avg_cadence_spm,avg_speed_ms,zone,intensity,start_time,end_time,elevation_gain_m,avg_gradient,group_id
