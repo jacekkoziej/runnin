@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-09-27 01:58
+last_sync,2026-09-27 02:03
 last_window,3 dni
 last_activity,Warszawa Chodzenie (2026-09-26)
 
@@ -182,6 +182,7 @@ date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,s
 2026-09-24,31.132135,35.710793,0.58112144,91.9,41,82,,31380,87,2,
 2026-09-25,30.399649,30.956898,0.4498062,,44,73,,23940,71,3,
 2026-09-26,29.943207,28.300194,0.34510803,,43,68,,22080,74,3,
+2026-09-27,29.238693,24.532812,-1.4511642,,,,,,,,
 
 ### activities
 activity_id,date,name,sport,distance_m,duration_s,avg_hr,max_hr,training_load,avg_cadence_spm,elevation_gain_m
