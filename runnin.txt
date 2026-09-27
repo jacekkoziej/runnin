@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-09-27 23:58
+last_sync,2026-09-28 00:03
 last_window,3 dni
 last_activity,Bychawa Kolarstwo (2026-09-27)
 
@@ -533,6 +533,9 @@ i190595531,2026-09-26T16:36:28,Warszawa Chodzenie,Walk,3240.8,1942,84,128,11,120
 i190774555,2026-09-27T10:02:04,Warszawska Dycha,Run,10053.71,2964,172,188,74,166.56506,75.67195
 i190774495,2026-09-27T09:33:49,Warszawa Bieganie,Run,623.46,263,123,164,3,158.107,
 i190893400,2026-09-27T16:46:39,Bychawa Kolarstwo,Ride,2105.63,1099,96,113,6,,22
+i190893400,2026-09-27T16:46:39,Bychawa Kolarstwo,Ride,2105.63,1099,96,113,6,,22
+i190774555,2026-09-27T10:02:04,Warszawska Dycha,Run,10053.71,2964,172,188,74,166.56506,75.67195
+i190774495,2026-09-27T09:33:49,Warszawa Bieganie,Run,623.46,263,123,164,3,158.107,
 
 ### intervals
 date,activity_id,interval_id,interval_no,type,distance_m,duration_s,avg_hr,max_hr,avg_cadence_spm,avg_speed_ms,zone,intensity,start_time,end_time,elevation_gain_m,avg_gradient,group_id
