@@ -1,8 +1,8 @@
 ### meta
 key,value
-last_sync,2026-09-29 17:03
+last_sync,2026-09-29 17:08
 last_window,3 dni
-last_activity,Bychawa Chodzenie (2026-09-28)
+last_activity,Bychawa Bieganie (2026-09-29)
 
 ### wellness
 date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,sleep_secs,sleep_score,sleep_quality,avg_sleeping_hr
@@ -184,7 +184,7 @@ date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,s
 2026-09-26,29.943207,28.300194,0.34510803,,43,68,,22080,74,3,
 2026-09-27,31.191544,35.581947,0.5016861,,41,92,,26880,89,2,
 2026-09-28,30.692942,32.176426,0.23106956,92.599,42,91,,23220,76,3,
-2026-09-29,29.970789,27.893032,-1.2095947,92.5,42,85,,28080,88,2,
+2026-09-29,30.017845,28.159277,-1.1625385,92.5,42,85,,28080,88,2,
 
 ### activities
 activity_id,date,name,sport,distance_m,duration_s,avg_hr,max_hr,training_load,avg_cadence_spm,elevation_gain_m
@@ -542,9 +542,11 @@ i191160016,2026-09-28T12:18:23,Chodzenie,Walk,2109.57,1558,85,100,5,115.23967,
 i191283896,2026-09-28T19:10:56,Bychawa Chodzenie,Walk,2498.93,1670,84,99,5,111.132072,29
 i191283896,2026-09-28T19:10:56,Bychawa Chodzenie,Walk,2498.93,1670,84,99,5,111.132072,29
 i191160016,2026-09-28T12:18:23,Chodzenie,Walk,2109.57,1558,85,100,5,115.23967,
+i191551619,2026-09-29T16:57:49,Bychawa Bieganie,Run,608.87,340,116,125,2,148.5912,4.8747253
 
 ### intervals
 date,activity_id,interval_id,interval_no,type,distance_m,duration_s,avg_hr,max_hr,avg_cadence_spm,avg_speed_ms,zone,intensity,start_time,end_time,elevation_gain_m,avg_gradient,group_id
+2026-09-29,i191551619,4551023,1,WORK,608.87,349,115,125,135.39254,1.7446132,1,66,,349,6.600006,0.0026278289,349s@115bpm68rpm
 2026-09-27,i190774555,2251277,1,WORK,1001.68,311,152,166,164.64308,3.220836,2,88,,311,,-0.00319463,296s@172bpm83rpm
 2026-09-27,i190774495,6652755,1,WORK,621.41003,426,123,164,89.97658,1.458709,1,71,,615,2.7999878,-0.003218487,615s@123bpm45rpm
 2026-09-27,i190774555,6397737,2,WORK,1000.96,296,164,169,166.32432,3.3816216,4,95,311,607,,-0.01098945,296s@172bpm83rpm
