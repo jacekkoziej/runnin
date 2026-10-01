@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-10-01 23:58
+last_sync,2026-10-02 00:03
 last_window,3 dni
 last_activity,HIIT (2026-10-01)
 
@@ -555,6 +555,9 @@ i191827762,2026-09-30T11:44:21,Chodzenie,Walk,2160.53,1390,87,96,4,116.752,
 i192225786,2026-10-01T13:17:39,Siła,WeightTraining,,3254,77,154,7,,
 i192239610,2026-10-01T14:16:42,Chodzenie,Walk,3247.02,2166,89,97,7,114.47568,
 i192404146,2026-10-01T20:08:10,HIIT,HighIntensityIntervalTraining,,5370,115,180,42,,
+i192404146,2026-10-01T20:08:10,HIIT,HighIntensityIntervalTraining,,5370,115,180,42,,
+i192239610,2026-10-01T14:16:42,Chodzenie,Walk,3247.02,2166,89,97,7,114.47568,
+i192225786,2026-10-01T13:17:39,Siła,WeightTraining,,3254,77,154,7,,
 
 ### intervals
 date,activity_id,interval_id,interval_no,type,distance_m,duration_s,avg_hr,max_hr,avg_cadence_spm,avg_speed_ms,zone,intensity,start_time,end_time,elevation_gain_m,avg_gradient,group_id
