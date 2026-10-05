@@ -1,8 +1,8 @@
 ### meta
 key,value
-last_sync,2026-10-05 17:08
+last_sync,2026-10-05 17:13
 last_window,3 dni
-last_activity,Chodzenie (2026-10-05)
+last_activity,Bychawa Chodzenie (2026-10-05)
 
 ### wellness
 date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,sleep_secs,sleep_score,sleep_quality,avg_sleeping_hr
@@ -190,7 +190,7 @@ date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,s
 2026-10-02,30.632975,31.580256,0.23332596,92.199,43,76,,20760,60,3,
 2026-10-03,30.971006,33.36672,1.0277996,,40,86,,26760,83,2,
 2026-10-04,31.724594,37.31156,0.53305054,91.8,40,88,,24960,81,2,
-2026-10-05,31.166395,33.409546,0.47345352,,41,86,,24180,82,2,
+2026-10-05,31.49579,35.273254,0.8028488,,41,86,,24180,82,2,
 
 ### activities
 activity_id,date,name,sport,distance_m,duration_s,avg_hr,max_hr,training_load,avg_cadence_spm,elevation_gain_m
@@ -571,6 +571,7 @@ i192952086,2026-10-03T12:59:19,Bychawa Bieganie,Run,6669.72,2376,151,165,40,162.
 i193311509,2026-10-04T09:50:08,Bychawa Bieganie,Run,10601.32,3831,152,164,63,166.04798,66.671646
 i193311509,2026-10-04T09:50:08,Bychawa Bieganie,Run,10601.32,3831,152,164,63,166.04798,66.671646
 i193783395,2026-10-05T12:41:39,Chodzenie,Walk,4018.57,2230,90,124,8,122.794006,
+i193870956,2026-10-05T15:59:14,Bychawa Chodzenie,Walk,2675.02,2246,88,119,14,117.8,3
 
 ### intervals
 date,activity_id,interval_id,interval_no,type,distance_m,duration_s,avg_hr,max_hr,avg_cadence_spm,avg_speed_ms,zone,intensity,start_time,end_time,elevation_gain_m,avg_gradient,group_id
