@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-10-06 23:58
+last_sync,2026-10-07 00:04
 last_window,3 dni
 last_activity,Jabłonna - I 6x400 @3:55 / 90s (2026-10-06)
 
@@ -583,6 +583,8 @@ i193870956,2026-10-05T15:59:14,Bychawa Chodzenie,Walk,2675.02,2246,88,119,14,117
 i193783395,2026-10-05T12:41:39,Chodzenie,Walk,4018.57,2230,90,124,8,122.794006,
 i194245456,2026-10-06T14:04:00,Chodzenie,Walk,1394.25,860,90,115,3,117.024392,
 i194344177,2026-10-06T18:00:53,Jabłonna - I 6x400 @3:55 / 90s,Run,6728.57,2110,158,181,46,165.73468,40.731003
+i194344177,2026-10-06T18:00:53,Jabłonna - I 6x400 @3:55 / 90s,Run,6728.57,2110,158,181,46,165.73468,40.731003
+i194245456,2026-10-06T14:04:00,Chodzenie,Walk,1394.25,860,90,115,3,117.024392,
 
 ### intervals
 date,activity_id,interval_id,interval_no,type,distance_m,duration_s,avg_hr,max_hr,avg_cadence_spm,avg_speed_ms,zone,intensity,start_time,end_time,elevation_gain_m,avg_gradient,group_id
