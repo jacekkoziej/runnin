@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-10-08 23:58
+last_sync,2026-10-09 00:03
 last_window,3 dni
 last_activity,HIIT (2026-10-08)
 
@@ -591,6 +591,8 @@ i194804787,2026-10-07T20:24:42,Bieg na bieżni,VirtualRun,5206.39,1861,143,156,3
 i194804787,2026-10-07T20:24:42,Bieg na bieżni,VirtualRun,5206.39,1861,143,156,31,164.39506,
 i195159962,2026-10-08T18:03:21,Lublin Chodzenie,Walk,6704.66,4262,95,114,17,115.32116,46
 i195217392,2026-10-08T20:01:12,HIIT,HighIntensityIntervalTraining,,4162,121,175,37,,
+i195217392,2026-10-08T20:01:12,HIIT,HighIntensityIntervalTraining,,4162,121,175,37,,
+i195159962,2026-10-08T18:03:21,Lublin Chodzenie,Walk,6704.66,4262,95,114,17,115.32116,46
 
 ### intervals
 date,activity_id,interval_id,interval_no,type,distance_m,duration_s,avg_hr,max_hr,avg_cadence_spm,avg_speed_ms,zone,intensity,start_time,end_time,elevation_gain_m,avg_gradient,group_id
