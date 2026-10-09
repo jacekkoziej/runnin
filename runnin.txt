@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-10-09 01:58
+last_sync,2026-10-09 02:03
 last_window,3 dni
 last_activity,HIIT (2026-10-08)
 
@@ -194,6 +194,7 @@ date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,s
 2026-10-06,32.045483,40.908806,0.92180634,,43,72,,25020,81,2,
 2026-10-07,32.020885,39.589725,1.3706856,,43,83,,26040,84,2,
 2026-10-08,32.538017,41.508053,1.4560776,91.5,44,73,,29340,90,1,
+2026-10-09,31.772453,35.982414,1.1394787,,46,,,,,,
 
 ### activities
 activity_id,date,name,sport,distance_m,duration_s,avg_hr,max_hr,training_load,avg_cadence_spm,elevation_gain_m
