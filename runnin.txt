@@ -1,8 +1,8 @@
 ### meta
 key,value
-last_sync,2026-10-10 11:43
+last_sync,2026-10-10 11:49
 last_window,3 dni
-last_activity,HIIT (2026-10-08)
+last_activity,Nowy Dwór Mazowiecki Wyścig po torze z przeszkodami (2026-10-10)
 
 ### wellness
 date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,sleep_secs,sleep_score,sleep_quality,avg_sleeping_hr
@@ -195,7 +195,7 @@ date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,s
 2026-10-07,32.020885,39.589725,1.3706856,,43,83,,26040,84,2,
 2026-10-08,32.538017,41.508053,1.4560776,91.5,44,73,,29340,90,1,
 2026-10-09,31.772453,35.982414,1.1394787,,45,81,,24600,79,3,
-2026-10-10,31.0249,31.19236,0.053894043,,46,69,,24720,75,3,
+2026-10-10,31.989561,36.650364,1.0185547,,46,69,,24720,75,3,
 
 ### activities
 activity_id,date,name,sport,distance_m,duration_s,avg_hr,max_hr,training_load,avg_cadence_spm,elevation_gain_m
@@ -595,9 +595,13 @@ i195159962,2026-10-08T18:03:21,Lublin Chodzenie,Walk,6704.66,4262,95,114,17,115.
 i195217392,2026-10-08T20:01:12,HIIT,HighIntensityIntervalTraining,,4162,121,175,37,,
 i195217392,2026-10-08T20:01:12,HIIT,HighIntensityIntervalTraining,,4162,121,175,37,,
 i195159962,2026-10-08T18:03:21,Lublin Chodzenie,Walk,6704.66,4262,95,114,17,115.32116,46
+i195706159,2026-10-10T10:32:38,Nowy Dwór Mazowiecki Wyścig po torze z przeszkodami,Run,7058.81,2981,163,185,41,154.6993,75.31327
 
 ### intervals
 date,activity_id,interval_id,interval_no,type,distance_m,duration_s,avg_hr,max_hr,avg_cadence_spm,avg_speed_ms,zone,intensity,start_time,end_time,elevation_gain_m,avg_gradient,group_id
+2026-10-10,i195706159,4611761,1,WORK,267.44,93,153,163,163.84946,2.875699,2,88,,93,,0.002991308,93s@153bpm82rpm
+2026-10-10,i195706159,7329338,2,WORK,4094.6802,1941,164,185,123.279754,2.1095724,4,95,93,2034,81.60002,0.0001953762,1868s@162bpm51rpm
+2026-10-10,i195706159,6797686,3,WORK,2696.69,1794,160,185,80.084724,1.5031717,3,93,2034,3828,63.40001,0.0002966611,1868s@162bpm51rpm
 2026-10-07,i194804787,8493931,1,WORK,1002.46,369,128,140,161.42006,2.7166939,1,74,,369,,,358s@142bpm82rpm
 2026-10-07,i194804787,6518466,2,WORK,1002.48004,360,138,143,163.42222,2.7846668,1,80,369,729,,,358s@142bpm82rpm
 2026-10-07,i194804787,6245135,3,WORK,997.3899,349,150,156,165.67908,2.8578508,2,87,729,1078,,,358s@142bpm82rpm
