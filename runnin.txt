@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-10-13 07:53
+last_sync,2026-10-13 07:58
 last_window,3 dni
 last_activity,Runmageddon Modlin Rekrut (2026-10-10)
 
@@ -198,7 +198,7 @@ date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,s
 2026-10-10,31.989561,36.650364,1.0185547,,46,69,,24720,75,3,
 2026-10-11,31.2369,31.77139,-0.4876938,,43,66,,23580,48,4,
 2026-10-12,30.50195,27.541916,-1.1350117,,43,71,,30360,93,1,
-2026-10-13,29.78429,23.875479,-2.2611923,,48,,,,,,
+2026-10-13,29.78429,23.875479,-2.2611923,,42,76,,24600,83,2,
 
 ### activities
 activity_id,date,name,sport,distance_m,duration_s,avg_hr,max_hr,training_load,avg_cadence_spm,elevation_gain_m
