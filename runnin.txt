@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-10-16 23:58
+last_sync,2026-10-17 00:03
 last_window,3 dni
 last_activity,Bychawa Bieganie (2026-10-16)
 
@@ -605,6 +605,7 @@ i195706159,2026-10-10T10:32:38,Runmageddon Modlin Rekrut,Run,7058.81,2981,163,18
 i195706159,2026-10-10T10:32:38,Runmageddon Modlin Rekrut,Run,7058.81,2981,163,185,41,154.6993,75.31327
 i197729333,2026-10-15T20:12:58,Siła,WeightTraining,,5835,100,133,29,,
 i197729333,2026-10-15T20:12:58,Siła,WeightTraining,,5835,100,133,29,,
+i198058422,2026-10-16T18:43:44,Bychawa Bieganie,Run,3077.42,1093,147,160,19,168.84036,19.63884
 i198058422,2026-10-16T18:43:44,Bychawa Bieganie,Run,3077.42,1093,147,160,19,168.84036,19.63884
 
 ### intervals
