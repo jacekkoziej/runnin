@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-10-20 23:58
+last_sync,2026-10-21 00:03
 last_window,3 dni
 last_activity,Kardio (2026-10-20)
 
@@ -616,6 +616,9 @@ i199073349,2026-10-19T17:01:35,Chodzenie,Walk,,5,61,61,,,
 i199496751,2026-10-20T14:34:29,Chodzenie,Walk,141.07,239,96,103,1,104.823532,
 i199618198,2026-10-20T17:56:41,Jabłonna Chodzenie,Walk,4058.52,2433,98,137,11,121.60479,14
 i199658506,2026-10-20T19:36:41,Kardio,Workout,,2637,82,108,7,,
+i199658506,2026-10-20T19:36:41,Kardio,Workout,,2637,82,108,7,,
+i199618198,2026-10-20T17:56:41,Jabłonna Chodzenie,Walk,4058.52,2433,98,137,11,121.60479,14
+i199496751,2026-10-20T14:34:29,Chodzenie,Walk,141.07,239,96,103,1,104.823532,
 
 ### intervals
 date,activity_id,interval_id,interval_no,type,distance_m,duration_s,avg_hr,max_hr,avg_cadence_spm,avg_speed_ms,zone,intensity,start_time,end_time,elevation_gain_m,avg_gradient,group_id
