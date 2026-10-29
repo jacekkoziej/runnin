@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-10-29 23:58
+last_sync,2026-10-30 00:03
 last_window,3 dni
 last_activity,HIIT (2026-10-29)
 
@@ -654,6 +654,7 @@ i202404166,2026-10-27T17:57:06,Jabłonna Bieganie,Run,7660.9,2731,149,159,46,167
 i202404166,2026-10-27T17:57:06,Jabłonna Bieganie,Run,7660.9,2731,149,159,46,167.83242,29.449036
 i202752626,2026-10-28T13:56:59,Bieg na bieżni,VirtualRun,6700,2227,151,174,43,166.85598,
 i202752626,2026-10-28T13:56:59,Bieg na bieżni,VirtualRun,6700,2227,151,174,43,166.85598,
+i203341743,2026-10-29T20:02:27,HIIT,HighIntensityIntervalTraining,,4886,118,176,45,,
 i203341743,2026-10-29T20:02:27,HIIT,HighIntensityIntervalTraining,,4886,118,176,45,,
 
 ### intervals
