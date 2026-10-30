@@ -1,8 +1,8 @@
 ### meta
 key,value
-last_sync,2026-10-30 21:18
+last_sync,2026-10-30 21:23
 last_window,3 dni
-last_activity,HIIT (2026-10-29)
+last_activity,Bychawa Bieganie (2026-10-30)
 
 ### wellness
 date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,sleep_secs,sleep_score,sleep_quality,avg_sleeping_hr
@@ -215,7 +215,7 @@ date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,s
 2026-10-27,27.047466,31.79062,1.146841,,45,69,,27420,82,2,
 2026-10-28,27.422802,33.282837,1.8492355,91.5,42,80,,26083,86,2,
 2026-10-29,27.836365,34.84265,1.829256,,41,79,,29100,93,1,
-2026-10-30,27.181421,30.204325,0.79802704,,43,76,,26340,80,2,
+2026-10-30,28.169611,35.795452,1.7862167,,43,76,,26340,80,2,
 
 ### activities
 activity_id,date,name,sport,distance_m,duration_s,avg_hr,max_hr,training_load,avg_cadence_spm,elevation_gain_m
@@ -657,6 +657,7 @@ i202752626,2026-10-28T13:56:59,Bieg na bieżni,VirtualRun,6700,2227,151,174,43,1
 i202752626,2026-10-28T13:56:59,Bieg na bieżni,VirtualRun,6700,2227,151,174,43,166.85598,
 i203341743,2026-10-29T20:02:27,HIIT,HighIntensityIntervalTraining,,4886,118,176,45,,
 i203341743,2026-10-29T20:02:27,HIIT,HighIntensityIntervalTraining,,4886,118,176,45,,
+i203701242,2026-10-30T20:43:51,Bychawa Bieganie,Run,6720.9,2343,153,167,,164,49
 
 ### intervals
 date,activity_id,interval_id,interval_no,type,distance_m,duration_s,avg_hr,max_hr,avg_cadence_spm,avg_speed_ms,zone,intensity,start_time,end_time,elevation_gain_m,avg_gradient,group_id
