@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-10-31 23:58
+last_sync,2026-11-01 00:03
 last_window,3 dni
 last_activity,Relaks i skupienie (krótkie) (2026-10-31)
 
@@ -660,6 +660,7 @@ i203341743,2026-10-29T20:02:27,HIIT,HighIntensityIntervalTraining,,4886,118,176,
 i203341743,2026-10-29T20:02:27,HIIT,HighIntensityIntervalTraining,,4886,118,176,45,,
 i203701242,2026-10-30T20:43:51,Bychawa Bieganie,Run,6720.9,2343,153,167,42,165.46976,40.09619
 i203701242,2026-10-30T20:43:51,Bychawa Bieganie,Run,6720.9,2343,153,167,42,165.46976,40.09619
+i204124501,2026-10-31T21:45:55,Relaks i skupienie (krótkie),Workout,,334,83,104,1,,
 i204124501,2026-10-31T21:45:55,Relaks i skupienie (krótkie),Workout,,334,83,104,1,,
 
 ### intervals
