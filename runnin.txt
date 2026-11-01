@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-11-01 23:58
+last_sync,2026-11-02 00:03
 last_window,3 dni
 last_activity,Jabłonna Bieganie (2026-11-01)
 
@@ -665,6 +665,8 @@ i204124501,2026-10-31T21:45:55,Relaks i skupienie (krótkie),Workout,,334,83,104
 i204124501,2026-10-31T21:45:55,Relaks i skupienie (krótkie),Workout,,334,83,104,1,,
 i204386140,2026-11-01T15:17:23,Bychawa Chodzenie,Walk,1012.76,577,89,116,2,124.35849,11
 i204460587,2026-11-01T16:43:25,Jabłonna Bieganie,Run,14054.85,4717,157,172,89,168.689148,36.806107
+i204460587,2026-11-01T16:43:25,Jabłonna Bieganie,Run,14054.85,4717,157,172,89,168.689148,36.806107
+i204386140,2026-11-01T15:17:23,Bychawa Chodzenie,Walk,1012.76,577,89,116,2,124.35849,11
 
 ### intervals
 date,activity_id,interval_id,interval_no,type,distance_m,duration_s,avg_hr,max_hr,avg_cadence_spm,avg_speed_ms,zone,intensity,start_time,end_time,elevation_gain_m,avg_gradient,group_id
