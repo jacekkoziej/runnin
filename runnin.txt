@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-11-02 00:58
+last_sync,2026-11-02 01:03
 last_window,3 dni
 last_activity,Jabłonna Bieganie (2026-11-01)
 
@@ -218,6 +218,7 @@ date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,s
 2026-10-30,28.169611,35.795452,1.7862167,,43,76,,26340,80,2,
 2026-10-31,27.506828,31.163408,1.7441902,,41,87,,27780,89,2,
 2026-11-01,29.000715,39.128983,1.9619637,,39,96,,27120,90,1,
+2026-11-02,28.318377,33.92005,1.7275753,,,,,,,,
 
 ### activities
 activity_id,date,name,sport,distance_m,duration_s,avg_hr,max_hr,training_load,avg_cadence_spm,elevation_gain_m
