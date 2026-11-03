@@ -1,8 +1,8 @@
 ### meta
 key,value
-last_sync,2026-11-03 18:33
+last_sync,2026-11-03 18:38
 last_window,3 dni
-last_activity,T 4x6' @4:40 p. 2', 1% (2026-11-03)
+last_activity,Jabłonna Chodzenie (2026-11-03)
 
 ### wellness
 date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,sleep_secs,sleep_score,sleep_quality,avg_sleeping_hr
@@ -219,7 +219,7 @@ date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,s
 2026-10-31,27.506828,31.163408,1.7441902,,41,87,,27780,89,2,
 2026-11-01,29.000715,39.128983,1.9619637,,39,96,,27120,90,1,
 2026-11-02,28.577188,38.579323,1.9863873,89.9,44,84,,22380,70,3,
-2026-11-03,29.2224,40.8984,2.1749344,,43,75,,22620,77,3,
+2026-11-03,29.528269,42.628986,2.4808025,,43,75,,22620,77,3,
 
 ### activities
 activity_id,date,name,sport,distance_m,duration_s,avg_hr,max_hr,training_load,avg_cadence_spm,elevation_gain_m
@@ -676,6 +676,7 @@ i204972240,2026-11-02T21:50:40,Bychawa Chodzenie,Walk,1894.03,1111,98,138,6,122.
 i204950618,2026-11-02T20:19:19,Siła,WeightTraining,,5061,99,142,24,,
 i204911532,2026-11-02T19:56:44,Bychawa Chodzenie,Walk,1873.69,965,101,131,5,124.09816,23
 i205191295,2026-11-03T12:30:54,T 4x6' @4:40 p. 2', 1%,VirtualRun,8020,2481,157,179,56,166.33588,
+i205337313,2026-11-03T17:55:18,Jabłonna Chodzenie,Walk,4008.54,2118,108,142,13,132.10585,12
 
 ### intervals
 date,activity_id,interval_id,interval_no,type,distance_m,duration_s,avg_hr,max_hr,avg_cadence_spm,avg_speed_ms,zone,intensity,start_time,end_time,elevation_gain_m,avg_gradient,group_id
