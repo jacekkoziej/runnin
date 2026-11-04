@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-11-04 14:18
+last_sync,2026-11-04 14:23
 last_window,3 dni
 last_activity,Chodzenie 15%, 4,5kmh, 15' (2026-11-04)
 
@@ -680,7 +680,7 @@ i205191295,2026-11-03T12:30:54,T 4x6' @4:40 p. 2', 1%,VirtualRun,8020,2481,157,1
 i205337313,2026-11-03T17:55:18,Jabłonna Chodzenie,Walk,4008.54,2118,108,142,13,132.10585,12
 i205337313,2026-11-03T17:55:18,Jabłonna Chodzenie,Walk,4008.54,2118,108,142,13,132.10585,12
 i205191295,2026-11-03T12:30:54,T 4x6' @4:40 p. 2', 1%,VirtualRun,8020,2481,157,179,56,166.33588,
-i205663731,2026-11-04T13:33:53,Chodzenie 15%, 4,5kmh, 15',Walk,1314.72,886,115,131,7,107.06173,195
+i205663731,2026-11-04T13:33:53,Chodzenie 15%, 4,5kmh, 15',Walk,1310,886,115,131,7,107.06173,195
 
 ### intervals
 date,activity_id,interval_id,interval_no,type,distance_m,duration_s,avg_hr,max_hr,avg_cadence_spm,avg_speed_ms,zone,intensity,start_time,end_time,elevation_gain_m,avg_gradient,group_id
