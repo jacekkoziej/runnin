@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-11-04 09:38
+last_sync,2026-11-04 09:43
 last_window,3 dni
 last_activity,Jabłonna Chodzenie (2026-11-03)
 
@@ -220,7 +220,7 @@ date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,s
 2026-11-01,29.000715,39.128983,1.9619637,,39,96,,27120,90,1,
 2026-11-02,28.577188,38.579323,1.9863873,89.9,44,84,,22380,70,3,
 2026-11-03,29.528269,42.628986,2.4808025,,43,75,,22620,77,3,
-2026-11-04,28.833519,36.954124,1.410717,,44,,,,,,
+2026-11-04,28.833519,36.954124,1.410717,,44,82,,30960,87,2,
 
 ### activities
 activity_id,date,name,sport,distance_m,duration_s,avg_hr,max_hr,training_load,avg_cadence_spm,elevation_gain_m
