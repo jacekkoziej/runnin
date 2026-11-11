@@ -1,8 +1,8 @@
 ### meta
 key,value
-last_sync,2026-11-11 13:53
+last_sync,2026-11-11 13:58
 last_window,3 dni
-last_activity,Chodzenie (2026-11-11)
+last_activity,Chodzenie 15%, 4,5kmh, 25’ (2026-11-11)
 
 ### wellness
 date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,sleep_secs,sleep_score,sleep_quality,avg_sleeping_hr
@@ -711,7 +711,7 @@ i208568426,2026-11-11T08:20:52,Bychawa Bieg na bieżni,VirtualRun,21.82,81,65,84
 i208574090,2026-11-11T08:32:36,Bieg na bieżni,VirtualRun,,124,59,69,,82.909088,
 i208610384,2026-11-11T10:14:24,Bieg na bieżni,VirtualRun,225.03,195,49,58,1,,
 i208677778,2026-11-11T12:10:11,Bychawa Bieganie,Run,8052.39,2916,149,165,48,162.71004,78.071945
-i208696673,2026-11-11T13:12:04,Chodzenie,Walk,2130.94,1473,125,133,15,105.1129,
+i208696673,2026-11-11T13:12:04,Chodzenie 15%, 4,5kmh, 25’,Walk,2130.94,1473,125,133,15,105.1129,
 
 ### intervals
 date,activity_id,interval_id,interval_no,type,distance_m,duration_s,avg_hr,max_hr,avg_cadence_spm,avg_speed_ms,zone,intensity,start_time,end_time,elevation_gain_m,avg_gradient,group_id
