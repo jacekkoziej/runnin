@@ -1,8 +1,8 @@
 ### meta
 key,value
-last_sync,2026-11-11 08:23
+last_sync,2026-11-11 08:28
 last_window,3 dni
-last_activity,T 3x8' @4:40 p. 2'  (2026-11-10)
+last_activity,Bychawa Bieg na bieżni (2026-11-11)
 
 ### wellness
 date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,sleep_secs,sleep_score,sleep_quality,avg_sleeping_hr
@@ -707,9 +707,11 @@ i207983454,2026-11-09T20:48:47,Siła,WeightTraining,,2147,72,110,4,,
 i207681942,2026-11-09T06:49:53,Siła,WeightTraining,,5598,92,133,22,,
 i208244419,2026-11-10T12:11:08,T 3x8' @4:40 p. 2' ,VirtualRun,8020,2548,153,171,54,165.3004,
 i208244419,2026-11-10T12:11:08,T 3x8' @4:40 p. 2' ,VirtualRun,8020,2548,153,171,54,165.3004,
+i208568426,2026-11-11T08:20:52,Bychawa Bieg na bieżni,VirtualRun,21.82,81,65,84,,100,
 
 ### intervals
 date,activity_id,interval_id,interval_no,type,distance_m,duration_s,avg_hr,max_hr,avg_cadence_spm,avg_speed_ms,zone,intensity,start_time,end_time,elevation_gain_m,avg_gradient,group_id
+2026-11-11,i208568426,5899638,1,WORK,21.82,81,65,84,7.0588236,0.26938272,1,37,,121,,,121s@65bpm4rpm
 2026-11-10,i208244419,8468543,1,WORK,1001.50995,321,128,145,160.6106,3.1199687,1,74,,321,,,321s@128bpm80rpm
 2026-11-10,i208244419,8265371,2,RECOVERY,3.25,1,136,136,162,3.25,1,79,321,322,,,
 2026-11-10,i208244419,1310248,3,WORK,862.5801,264,141,147,163.10606,3.2673488,1,81,322,586,,,284s@154bpm83rpm
