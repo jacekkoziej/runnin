@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-11-12 23:58
+last_sync,2026-11-13 00:03
 last_window,3 dni
 last_activity,HIIT (2026-11-12)
 
@@ -717,6 +717,8 @@ i208696673,2026-11-11T13:12:04,Chodzenie 15%, 4,5kmh, 25’,Walk,2130.94,1473,12
 i208677778,2026-11-11T12:10:11,Bychawa Bieganie,Run,8052.39,2916,149,165,48,162.71004,78.071945
 i209277601,2026-11-12T19:36:45,Chodzenie,Walk,2150.86,1228,106,116,7,119.1145,
 i209303530,2026-11-12T20:01:26,HIIT,HighIntensityIntervalTraining,,3534,134,172,44,,
+i209303530,2026-11-12T20:01:26,HIIT,HighIntensityIntervalTraining,,3534,134,172,44,,
+i209277601,2026-11-12T19:36:45,Chodzenie,Walk,2150.86,1228,106,116,7,119.1145,
 
 ### intervals
 date,activity_id,interval_id,interval_no,type,distance_m,duration_s,avg_hr,max_hr,avg_cadence_spm,avg_speed_ms,zone,intensity,start_time,end_time,elevation_gain_m,avg_gradient,group_id
