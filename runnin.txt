@@ -1,8 +1,8 @@
 ### meta
 key,value
-last_sync,2026-11-16 10:08
+last_sync,2026-11-16 10:13
 last_window,3 dni
-last_activity,Long run (2026-11-15)
+last_activity,Bychawa - Long run (2026-11-15)
 
 ### wellness
 date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,sleep_secs,sleep_score,sleep_quality,avg_sleeping_hr
@@ -726,7 +726,7 @@ i209277601,2026-11-12T19:36:45,Chodzenie,Walk,2150.86,1228,106,116,7,119.1145,
 i209644393,2026-11-13T18:12:52,Easy + przebieżki,Run,9342.08,3528,142,170,54,162.99114,54.829697
 i209644393,2026-11-13T18:12:52,Easy + przebieżki,Run,9342.08,3528,142,170,54,162.99114,54.829697
 i210310655,2026-11-15T10:54:50,Long run,Run,17024.45,6593,148,165,96,160.34774,144.3874
-i210310655,2026-11-15T10:54:50,Long run,Run,17024.45,6593,148,165,96,160.34774,144.3874
+i210310655,2026-11-15T10:54:50,Bychawa - Long run,Run,17024.45,6593,148,165,96,160.34774,144.3874
 
 ### intervals
 date,activity_id,interval_id,interval_no,type,distance_m,duration_s,avg_hr,max_hr,avg_cadence_spm,avg_speed_ms,zone,intensity,start_time,end_time,elevation_gain_m,avg_gradient,group_id
