@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-11-18 23:58
+last_sync,2026-11-19 00:03
 last_window,3 dni
 last_activity,Chodzenie, 15%, 4,5kmh, 30' (2026-11-18)
 
@@ -738,6 +738,9 @@ i211337319,2026-11-17T17:33:51,I 4x1km @4:15,Run,9478.29,3184,151,179,60,163.465
 i211728958,2026-11-18T17:04:32,Bieg spokojny 45 min,Run,7272.19,2707,144,151,42,163.93346,39.6938
 i211740378,2026-11-18T17:51:17,Bychawa Chodzenie,Walk,946.77,543,105,111,3,123.9,3
 i211760463,2026-11-18T18:20:32,Chodzenie, 15%, 4,5kmh, 30',Walk,2628.27,1768,126,136,18,104.315788,300
+i211760463,2026-11-18T18:20:32,Chodzenie, 15%, 4,5kmh, 30',Walk,2628.27,1768,126,136,18,104.315788,300
+i211740378,2026-11-18T17:51:17,Bychawa Chodzenie,Walk,946.77,543,105,111,3,123.9,3
+i211728958,2026-11-18T17:04:32,Bieg spokojny 45 min,Run,7272.19,2707,144,151,42,163.93346,39.6938
 
 ### intervals
 date,activity_id,interval_id,interval_no,type,distance_m,duration_s,avg_hr,max_hr,avg_cadence_spm,avg_speed_ms,zone,intensity,start_time,end_time,elevation_gain_m,avg_gradient,group_id
