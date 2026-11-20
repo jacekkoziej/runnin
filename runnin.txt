@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-11-20 22:58
+last_sync,2026-11-20 23:03
 last_window,3 dni
 last_activity,Bychawa - Podbiegi 6x350m, 6% (2026-11-20)
 
