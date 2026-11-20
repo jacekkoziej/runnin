@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-11-20 23:58
+last_sync,2026-11-21 00:03
 last_window,3 dni
 last_activity,Bychawa - Podbiegi 6x350m, 6% (2026-11-20)
 
@@ -749,6 +749,7 @@ i212238674,2026-11-19T21:10:08,Siła,WeightTraining,,1242,111,135,8,,
 i212238674,2026-11-19T21:10:08,Siła,WeightTraining,,1242,111,135,8,,
 i212229313,2026-11-19T20:07:40,Kardio,Workout,,3277,112,169,27,,
 i212196485,2026-11-19T19:28:02,Kolarstwo w pomieszczeniu,VirtualRide,,1773,111,125,13,,
+i212516415,2026-11-20T15:47:57,Bychawa - Podbiegi 6x350m, 6%,Run,6557.31,2396,146,159,41,165.3322,97.59668
 i212516415,2026-11-20T15:47:57,Bychawa - Podbiegi 6x350m, 6%,Run,6557.31,2396,146,159,41,165.3322,97.59668
 
 ### intervals
