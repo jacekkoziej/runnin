@@ -1,6 +1,6 @@
 ### meta
 key,value
-last_sync,2026-11-22 09:43
+last_sync,2026-11-22 09:48
 last_window,3 dni
 last_activity,Bychawa - Podbiegi 6x350m, 6% (2026-11-20)
 
@@ -238,7 +238,7 @@ date,ctl_fitness,atl_fatigue,ramp_rate,weight_kg,resting_hr,hrv_rmssd,hrv_sdnn,s
 2026-11-19,33.89028,49.384323,1.3715553,,41,97,,29340,91,1,
 2026-11-20,34.05756,48.268185,1.0334167,,41,77,,22740,75,3,
 2026-11-21,33.256245,41.84262,1.0091057,,40,86,,30819,78,3,
-2026-11-22,34.614857,48.386555,0.86772156,,45,,,,,,
+2026-11-22,34.614857,48.386555,0.86772156,,40,,,,,,
 
 ### activities
 activity_id,date,name,sport,distance_m,duration_s,avg_hr,max_hr,training_load,avg_cadence_spm,elevation_gain_m
